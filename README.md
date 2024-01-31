@@ -1,4 +1,4 @@
-# Snake_C++_SFML
+# MINESWEEPER_C++_SFML
 Simple minesweeper in about 2 hours written in C++ using SFML for rendering
 
 Video of me writing it from scratch: 
